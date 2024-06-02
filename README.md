@@ -1,7 +1,7 @@
 <h1 align="center">A to Z Basics About Python</h1>
 <h2 align="center">⚙️ Click Python A to Z File</h2>
 
-<p align="center">This `PythonAtoZ` file in repository contains comprehensive materials covering all aspects of Python programming.</p>
+<p align="center">**This `Python A to Z` file in repository contains comprehensive materials covering all aspects of Python programming.**</p>
 
 ## 1. Python Fundamentals
 - Basics (Variables, Data Types, Basic Operations)
