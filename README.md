@@ -1,17 +1,24 @@
-<h2 align="left">⚙️ Python A to Z File Contain All Topics of Python Including :</h2>
+<h1 align="center">A to Z Basics About Python</h1>
+<h2 align="center">⚙️ Click `Python A to Z` File</h2>
 
-1. **Python Fundamentals**
+<p align="center">This `Python A to Z` file in repository contains comprehensive materials covering all aspects of Python programming.</p>
+
+## 1. Python Fundamentals
 - Basics (Variables, Data Types, Basic Operations)
 - Control Structures (if-else, loops)
 - Data Structures (List, Tuple, Set, Dictionary)
 - Functions (Definition, Arguments, Lambda Functions)
-2. **OOP - Object-Oriented Programming**
+
+## 2. OOP - Object-Oriented Programming
 - Classes, abc, Objects, Inheritance, Polymorphism, Access Modifiers
-3. **Front End**
+
+## 3. Front End
 - HTML Basics
-4. **Django Framework**
+
+## 4. Django Framework
 - Django Architecture (URLs, Views, MVT)
-- Models, Forms and Media Management
+- Models, Forms, and Media Management
 - Multiple Apps Management
-5. **Requirement Analysis**
-- Draw Class Diagram Based on Scenario.
+
+## 5. Requirement Analysis
+- Drawing Class Diagrams Based on Scenarios
