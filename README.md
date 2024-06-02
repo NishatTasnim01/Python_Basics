@@ -1,4 +1,4 @@
-<h1 align="center">A to Z Basics About Python 🐍</h1>
+<h1 align="center">Python A to Z Basic 🐍</h1>
 <h2 align="left">⚙️ Click <code>Python A to Z Notes</code> File :</h2>
 
 <p align="left"><strong>This <code>Python A to Z Notes</code> file in the repository contains comprehensive materials covering all basic aspects of Python programming. Follow this guide to practice Basic Python. This file includes:</strong></p>
