@@ -1,4 +1,4 @@
-<h1 align="center">A to Z Basics About Python</h1>
+<h1 align="center">A to Z Basics About Python 🐍</h1>
 <h2 align="center">⚙️ Click Python A to Z File</h2>
 
 <p align="center"><strong>This <code>Python A to Z</code> file in the repository contains comprehensive materials covering all aspects of Python programming.</strong></p>
